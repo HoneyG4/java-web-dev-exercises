@@ -19,11 +19,7 @@ public class NumCharacters {
             }
         }
 
-           for (Map.Entry<Character, Integer> store : storage.entrySet()) {
 
-            System.out.println(store.getKey() + ":" + (  store.getValue()  ));
-
-        }
 
     }
 }
